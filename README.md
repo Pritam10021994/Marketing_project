@@ -1,7 +1,8 @@
 # Marketing_project
 A marketing company is facing several issues in branding and revenue generation. It is basically a small start-up company which was established in 2012. Their main areas is in Social Media analytics.
 
-## Data – As the company is bound with NDA (Non-Disclosure Agreement), so the data is shared from the database server in a excel file by masking and transforming high confidential points. This data set was provided to bring out various insightful areas which can be helped for improving business operations. Content - The data set consists of customers of the company with data on: • Customer profiles • Product preferences • Campaign successes/failures • Channel performance
+## Data – 
+As the company is bound with NDA (Non-Disclosure Agreement), so the data is shared from the database server in a excel file by masking and transforming high confidential points. This data set was provided to bring out various insightful areas which can be helped for improving business operations. Content - The data set consists of customers of the company with data on: • Customer profiles • Product preferences • Campaign successes/failures • Channel performance
 The data shared is for 3 historical years in 2 tabs and 1 file for store data, which is collected from different regions.
 Data Dictionary is also provided for reference.
 ## Requirement –
